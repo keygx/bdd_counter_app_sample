@@ -6,7 +6,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.counter_app_sample"
+    namespace = "com.example.bdd_counter_app_sample"
     compileSdk = flutter.compileSdkVersion
     ndkVersion = flutter.ndkVersion
 
@@ -21,7 +21,7 @@ android {
 
     defaultConfig {
         // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
-        applicationId = "com.example.counter_app_sample"
+        applicationId = "com.example.bdd_counter_app_sample"
         // You can update the following values to match your application needs.
         // For more information, see: https://flutter.dev/to/review-gradle-config.
         minSdk = flutter.minSdkVersion

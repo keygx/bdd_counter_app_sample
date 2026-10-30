@@ -1,4 +1,4 @@
-# counter_app_sample
+# bdd_counter_app_sample
 
 A new Flutter project.
 
